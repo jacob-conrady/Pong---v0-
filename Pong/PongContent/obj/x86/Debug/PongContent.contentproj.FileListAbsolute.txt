@@ -1,0 +1,6 @@
+C:\Users\pageg\Desktop\Pong\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
+C:\Users\174044\Downloads\Pong - v0 (Starter)\Pong - v0 (Starter)\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
+C:\Users\174044\Downloads\Pong 2\Pong - v0 (Starter)\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
+C:\Users\174044\Desktop\Pong 3\Pong - v0 (Starter)\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
+C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jacob\Downloads\Pong 4\Pong 4\Pong - v0 (Starter)\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache

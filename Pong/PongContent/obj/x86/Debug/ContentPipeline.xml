@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>orange ping pong ball.png</Source>
+      <Name>orange ping pong ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\Pong\bin\x86\Debug\Content\orange ping pong ball.xnb</Output>
+      <Time>2016-10-05T15:08:12.9822549-05:00</Time>
+    </Item>
+    <Item>
+      <Source>whitesquare.png</Source>
+      <Name>whitesquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\Pong\bin\x86\Debug\Content\whitesquare.xnb</Output>
+      <Time>2016-10-05T15:50:36.7687182-05:00</Time>
+    </Item>
+    <Item>
+      <Source>whitesquare2.png</Source>
+      <Name>whitesquare2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\Pong\bin\x86\Debug\Content\whitesquare2.xnb</Output>
+      <Time>2016-10-11T16:06:04.1247021-05:00</Time>
+    </Item>
+    <Item>
+      <Source>paddledetection1.png</Source>
+      <Name>paddledetection1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\Pong\bin\x86\Debug\Content\paddledetection1.xnb</Output>
+      <Time>2016-10-11T16:22:22.7395538-05:00</Time>
+    </Item>
+    <Item>
+      <Source>paddledetection2.png</Source>
+      <Name>paddledetection2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\Pong\bin\x86\Debug\Content\paddledetection2.xnb</Output>
+      <Time>2016-10-11T16:22:22.7435542-05:00</Time>
+    </Item>
+    <Item>
+      <Source>paddledetection3.png</Source>
+      <Name>paddledetection3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\Pong\bin\x86\Debug\Content\paddledetection3.xnb</Output>
+      <Time>2016-10-11T16:22:22.7465545-05:00</Time>
+    </Item>
+    <Item>
+      <Source>paddledetection4.png</Source>
+      <Name>paddledetection4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\Pong\bin\x86\Debug\Content\paddledetection4.xnb</Output>
+      <Time>2016-10-11T16:22:22.7505549-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\Pong\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2016-10-13T16:03:46.1936935-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\Pong\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2016-10-13T16:06:14.2444971-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont3.spritefont</Source>
+      <Name>SpriteFont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\Pong\bin\x86\Debug\Content\SpriteFont3.xnb</Output>
+      <Time>2016-11-04T15:38:54.1335204-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont4.spritefont</Source>
+      <Name>SpriteFont4</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\Pong\bin\x86\Debug\Content\SpriteFont4.xnb</Output>
+      <Time>2016-11-04T15:38:54.1185189-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont5.spritefont</Source>
+      <Name>SpriteFont5</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\Pong\bin\x86\Debug\Content\SpriteFont5.xnb</Output>
+      <Time>2016-11-04T15:38:54.1045175-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\PongContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\Pong\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\PongContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\174044\Desktop\Pong 4\Pong - v0 (Starter)\Pong\Pong\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-29T07:56:17.6113824-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
